@@ -1,4 +1,4 @@
-python-telegram-bot
+python-telegram-bot[webhooks]==21.6
 feedparser
 requests
 deep-translator
